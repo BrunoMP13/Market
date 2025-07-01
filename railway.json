@@ -1,4 +1,0 @@
-{
-  "build": "docker build -t practsem04 .",
-  "start": "docker run -p 8080:8080 practsem04"
-}
